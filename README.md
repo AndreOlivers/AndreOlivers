@@ -1,4 +1,4 @@
-- 👋 Hi, I'm André Oliveira programming student, always looking to learn more
+-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm André Oliveira programming student, always looking to learn more
 about current technologies I currently work with programming developing
 with C#, Asp Net Core, Entity Framework, using as SqlServer, Razor Pages,
 with Html, CSS, JavaScript and Bootstrap, lately I've been studying technologies like
