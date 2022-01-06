@@ -14,6 +14,10 @@ and work, I'm currently reading the Clean Code and Grokking algorithms books.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreOlivers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOlivers&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<div align="center">
+- 📎 Languages and Tools:
+  </div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
